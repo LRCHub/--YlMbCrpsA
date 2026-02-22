@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hex",
+  "base_artist": "ユトレヒト",
+  "createdAt": "2026-02-22T06:40:00.211058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hex Girlfriend",
+      "artist": "Neon Indian",
+      "has_synced": false,
+      "path": "select/01_Hex_Girlfriend_Neon_Indian.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Necro Hex Blues",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Necro_Hex_Blues_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hex",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/03_Hex_Bladee.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lady Ice And Mr Hex",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/04_Lady_Ice_And_Mr_Hex_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fresh Hex",
+      "artist": "Tobacco feat. Beck",
+      "has_synced": true,
+      "path": "select/05_Fresh_Hex_Tobacco_feat._Beck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fresh Hex (feat. Beck)",
+      "artist": "Tobacco",
+      "has_synced": true,
+      "path": "select/06_Fresh_Hex_(feat._Beck)_Tobacco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unfinished Hex",
+      "artist": "City Center",
+      "has_synced": true,
+      "path": "select/07_Unfinished_Hex_City_Center.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hex",
+      "artist": "Dot Allison",
+      "has_synced": true,
+      "path": "select/08_Hex_Dot_Allison.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEX",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/09_HEX_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Man With The Hex",
+      "artist": "The Atomic Fireballs",
+      "has_synced": true,
+      "path": "select/10_Man_With_The_Hex_The_Atomic_Fireballs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hex",
+      "artist": "Deathless Legacy",
+      "has_synced": false,
+      "path": "select/11_Hex_Deathless_Legacy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Put a Hex On Me",
+      "artist": "Mortiis",
+      "has_synced": true,
+      "path": "select/12_You_Put_a_Hex_On_Me_Mortiis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super-Doom-Hex-Gloom, Pt. 1",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/13_Super-Doom-Hex-Gloom,_Pt._1_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hex Omega",
+      "artist": "Opeth",
+      "has_synced": false,
+      "path": "select/14_Hex_Omega_Opeth.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hex Omega",
+      "artist": "Opeth",
+      "has_synced": true,
+      "path": "select/15_Hex_Omega_Opeth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chrysalis - Hex Hector Pop Radio Edit",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/16_Chrysalis_-_Hex_Hector_Pop_Radio_Edit_Anggun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hex",
+      "artist": "ユトレヒト",
+      "has_synced": false,
+      "path": "select/pl_01_Hex_ユトレヒト.txt"
+    }
+  ]
+}
